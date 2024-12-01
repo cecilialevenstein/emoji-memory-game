@@ -21,7 +21,7 @@ The game ends when all matching pairs are found.
 3. Click on the blocks to find the matching emojis.
 
 #### Online: 
-If you're unfamiliar with cloning repositories or working with code, you can play it [here](https://cecilialevenstein.github.io/emoji-memory-game/index.html).
+If you're unfamiliar with cloning repositories or working with code, you can play it [here](https://cecilialevenstein.github.io/emoji-memory-game/).
 
 
 ## Technology Stack:
